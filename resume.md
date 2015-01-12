@@ -1,72 +1,56 @@
 ## Resumé
 
 
-Chen-Han Hsiao (Stanley) 蕭辰翰
+Chien-Chen(Calvin) Weng 翁建宸
 
-Email: R97922120 at ntu.edu.tw  
-Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
+Email: [airfield1006@gmail.com](mailto:airfield1006@gmailcom)  
 
 ---------------------------------------
+### Summary
 
+*   My Research field is **Robotics Navigation**, which includes moving object detection and tracking.
+*   Familiar with **Machine Learning** and know how to extract key information from data.
+*   Able to deal with vision-based perception using **Computer Vision** background knowledge.
+
+---------------------------------------
 ### Work Experience
 
-*   **Product Developer**, Synology Inc.,
-    Apr. 2014 - current
-    - Develop Network Attached Storage operating system and release major update pack on a regular basis, twice a year. Implement interactive web-based user interface, Web API and SDK functions. Increase usability for customers to access and share documents.
-    - Port and maintain software packages under Synology package framework and apply security patches to increase system stability.
-    - Write internal tech documents and Provide technique support to customers.
+*   **Product Developer**, ACTi Corp.,
+    Aug. 2012 - current
+    - Design vision-based algorithms for surveillance and business service. I am mainly incharge of pedestrian and car detection.
+    - Support developments of moving object tracking and license plate recognition.
+    - Complete other applications such as tripwire, forbidden area, customer heatmap and crowd analysis.
+    - Port and maintain algorithm packages under ACTi IVS(Intelligent Video System) framework.
 
-*   **Stuff**, COSCUP team,
-    2014 - present
-    - Help organize COSCUP, one of the largest Open Souce Software conference in Taiwan.
-
-*   **Contributor**, g0v community,
-    2013 - current
-    - Contribute in software projects in g0v community which devote to embrace information transparency.
-
-*   **Software Engineer**, Micro-Star International Co., Ltd (MSI),
-    Nov. 2010 - Sep. 2013
-    - Build software architecture for high-end vacuum robot. Design and fine-tune algorithms to made consumer-level vacuum robot being capable of localizing and navigating <!---accurately in indoor environment-->.
-    - Implement customized Robot software and Human-Robot Interface on linux-based embedded platform. Also, inventing cross-platform software suite for autonomous robot field tests and Improve product reliability.
-    - Introduce tools including Git version control flow, project management with Redmine to our team, which helps team communication and progress tracking. Also host seminars in department to encourage everyone learn new technique and share knowledge.
 
 ### Education
 
 *   National Taiwan University, Taipei, Taiwan, 
-    * M. S., Computer Science and Information Engineering, Aug 2008 - July 2010
-*   National Taiwan University, Taipei, Taiwan
-    * B. S., Mathematics, Aug 2004 - July 2008
+    * M.S., Computer Science and Information Engineering,   Sep 2008 - Jan 2012
+*   National Chung Cheng University, Chiayi, Taiwan
+    * B.S., Computer Science and Information Engineering, Sep 2000 - Jul 2005
 
 ---------------------------------------
 
 ### Skills
 
-*   **System Programming :** Software implementation with solid coding skills on C/C++. System diagnosis and debugging with varius open-source tools such as GNU debugger, Valgrind and strace.
-<!---
-*   **Data analysis :** Using Matlab and Python (With open-source numeric and scientific package) to finding useful information for scientific and business usage.
--->
-*   **Web Engineering:** Web service bootstrap with Rails + Heroku + Amazon Web Services. <!---Basic knowledge on web load-balancing and scaling.-->
-*   **Language :** English: Full professional proficiency, TOEIC 945
+*   **System Programming :** C/C++(Solid).
+*   **Data Analysis :** Matlab/Octave(Solid), Python
+*   **Concepts :** 
+	- Machine Learning : SVM, AdaBoost, Neural Network
+	- Computer Vision : feature, camera model, optical flow
+*   **Language :** English
 
 ### Publication
 
-*   **Chen-Han Hsiao** and Chieh-Chih Wang, Achieving undelayed initialization in monocular SLAM with generalized objects using velocity estimate-based classification, Robotics and Automation (ICRA), 2011 IEEE International Conference on , pp.4060,4066, 9-13 May 2011.
+*   **Chien-Chen Weng**, Chieh-Chih Wang, Jennifer Healey, A Segmentation and Data Association Annotation System for Laser-based Multi-Target Tracking Evaluation, in Proceedings of the IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2012), July 2012. [PDF](http://perception.csie.ntu.edu.tw/wiki/files/k765h6d2Y5/weng_aim2012pdf.html)
+*   Kuo-Huei Lin, **Chung-Han Weng[^1]** and Chieh-Chih Wang, LIDAR-based Multitarget Tracking using Neighboring Interaction Force Models, in Proceedings of the 24th IPPR Conference on Computer Vision, Graphics and Image Processing (CVGIP), August, 2011.
 
-### Project
-
-*   **TED Open Translation Project**. 2012-present
-    -  Translate about 20 video subtitles from English to Chinese. Completed translation: [http://www.ted.com/profiles/1352721/translations](http://www.ted.com/profiles/1352721/translations)
-*   **Hangouts Clock!**
-	- A open source extension for Google Hangouts. Let user add timer on live stream when broadcasting on Google Hangouts. [http://swem.github.io/hangouts-clock/](http://swem.github.io/hangouts-clock/)
-*   **Facebook Hacker Cup 2014**: Rank 827
-    - International algorithmic programming competition hosted by Facebook.
 
 ### Interests and Continued learning
 
-*   Robotics, Machine Learning, Open Data, Open Source, Computer Security
-*   Startup Engineering, Functional Programming Principles in Scala @[Coursera](https://www.coursera.org/), Software as a Service @[edX](https://www.edx.org/), MongoDB M101 @[MongoDB University](https://university.mongodb.com/), 20+ courses completed @[CodeSchool](https://www.codeschool.com/users/swem)
+*   Robotics, Machine Learning @[Coursera](https://www.coursera.org/), Computer Vision @[CRCV](http://crcv.ucf.edu/courses/), Android Application
 
 ---------------------------------------
-
+[^1]:my former name
 Resume: [http://swem.github.io/resume](http://swem.github.io/resume) [[PDF]](https://raw.github.com/swem/resume/master/ChenHanHsiao-resume.pdf)  
-中文履歷: [http://swem.github.io/resume/resume-zh_tw.html](http://swem.github.io/resume/resume-zh_tw.html) [[PDF]](https://raw.github.com/swem/resume/master/ChenHanHsiao-resume-zh_tw.pdf)
