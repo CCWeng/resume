@@ -11,12 +11,11 @@ Email: [airfield1006@gmail.com](mailto:airfield1006@gmailcom)
 ### Summary
 
 *   My research field is about **Robotics Navigation**.
-	- particularly, it is moving object tracking introducing neighboring interaction model. 
+	- particularly, it is moving object tracking introducing neighboring (object) interaction model and scene interaction model. 
 *   Familiar with **Machine Learning**.
-	- know how to extract key information from data.
-	- know how to get the optimal estimation of the model.
-*   With **Computer Vision** background knowledge.
-	- Able to deal with vision-based perception.
+	- have ever implemented SVM, RealAdaBoost, TreeCascade for detecting objects which are of the same category but with various appearance, such as cars and pedestrians.
+*   Have **Computer Vision** background knowledge.
+	- learned about vision-based perception issues, which include features, camera model and 3D object shape recovery, from working or taking online courses.
 
 ---------------------------------------
 
@@ -24,9 +23,9 @@ Email: [airfield1006@gmail.com](mailto:airfield1006@gmailcom)
 
 *   **Product Developer**, ACTi Corp.,
     Aug. 2012 - current
-    - Design vision-based algorithms for surveillance and business service. I am mainly incharge of pedestrian and car detection.
+    - Design image algorithms for surveillance and business service. I am mainly incharge of pedestrian and car detection.
     - Support developments of moving object tracking and license plate recognition.
-    - Complete other applications such as tripwire, forbidden area, customer heatmap and crowd analysis.
+    - Complete corresponding applications such as tripwire, forbidden area, incorrect direction detection and crowd analysis.
     - Port and maintain algorithm packages under ACTi IVS(Intelligent Video System) framework.
 
 
@@ -41,9 +40,8 @@ Email: [airfield1006@gmail.com](mailto:airfield1006@gmailcom)
 
 ### Skills
 
-*   **System Programming :** C/C++(Solid).
-*   **Data Analysis :** Matlab/Octave(Solid)
-*   **Concepts :** Machine Learning, Computer Vision
+*   **System Programming :** C/C++(Solid)
+*   **Data Analysis :** Matlab/Octave(Solid), Python
 *   **Language :** English
 
 ### Publication
@@ -56,7 +54,8 @@ Email: [airfield1006@gmail.com](mailto:airfield1006@gmailcom)
 
 *   Robotics, Machine Learning @[Coursera](https://www.coursera.org/), Computer Vision @[CRCV](http://crcv.ucf.edu/courses/), Android Application
 
-
+Resume: [http://ccweng.github.io/resume](http://ccweng.github.io/resume) [[PDF]](https://raw.github.com/ccweng/resume/gh-pages/resume.pdf)
 
 [^1]:my former name
+
  
