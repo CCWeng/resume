@@ -1,18 +1,25 @@
 ## Resumé
 
 
-Chien-Chen(Calvin) Weng 翁建宸
+
+Chien-Chen(Calvin) Weng 
 
 Email: [airfield1006@gmail.com](mailto:airfield1006@gmailcom)  
 
 ---------------------------------------
+
 ### Summary
 
-*   My Research field is **Robotics Navigation**, which includes moving object detection and tracking.
-*   Familiar with **Machine Learning** and know how to extract key information from data.
-*   Able to deal with vision-based perception using **Computer Vision** background knowledge.
+*   My research field is about **Robotics Navigation**.
+	- particularly, it is moving object tracking introducing neighboring interaction model. 
+*   Familiar with **Machine Learning**.
+	- know how to extract key information from data.
+	- know how to get the optimal estimation of the model.
+*   With **Computer Vision** background knowledge.
+	- Able to deal with vision-based perception.
 
 ---------------------------------------
+
 ### Work Experience
 
 *   **Product Developer**, ACTi Corp.,
@@ -35,10 +42,8 @@ Email: [airfield1006@gmail.com](mailto:airfield1006@gmailcom)
 ### Skills
 
 *   **System Programming :** C/C++(Solid).
-*   **Data Analysis :** Matlab/Octave(Solid), Python
-*   **Concepts :** 
-	- Machine Learning : SVM, AdaBoost, Neural Network
-	- Computer Vision : feature, camera model, optical flow
+*   **Data Analysis :** Matlab/Octave(Solid)
+*   **Concepts :** Machine Learning, Computer Vision
 *   **Language :** English
 
 ### Publication
@@ -51,6 +56,7 @@ Email: [airfield1006@gmail.com](mailto:airfield1006@gmailcom)
 
 *   Robotics, Machine Learning @[Coursera](https://www.coursera.org/), Computer Vision @[CRCV](http://crcv.ucf.edu/courses/), Android Application
 
----------------------------------------
+
+
 [^1]:my former name
-Resume: [http://swem.github.io/resume](http://swem.github.io/resume) [[PDF]](https://raw.github.com/swem/resume/master/ChenHanHsiao-resume.pdf)  
+ 

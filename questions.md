@@ -1,7 +1,7 @@
 ## Questions
 
 
-Chen-Han Hsiao (Stanley) 蕭辰翰
+Chen-Han Hsiao (Stanley)
 
 Email: R97922120 at ntu.edu.tw  
 Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
