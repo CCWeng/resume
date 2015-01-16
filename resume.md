@@ -31,7 +31,7 @@ Email: [airfield1006@gmail.com](mailto:airfield1006@gmailcom)
 
 ### Education
 
-*   National Taiwan University, Taipei, Taiwan, 
+*   National Taiwan University, Taipei, Taiwan 
     * M.S., Computer Science and Information Engineering,   Sep 2008 - Jan 2012
 *   National Chung Cheng University, Chiayi, Taiwan
     * B.S., Computer Science and Information Engineering, Sep 2000 - Jul 2005
