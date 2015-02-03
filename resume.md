@@ -4,7 +4,7 @@
 
 Chien-Chen(Calvin) Weng 
 
-Email: [airfield1006@gmail.com](mailto:airfield1006@gmailcom)  
+Email: [airfield1006@gmail.com](mailto:airfield1006@gmail.com)  
 
 ---------------------------------------
 
