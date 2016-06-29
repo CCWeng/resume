@@ -4,30 +4,60 @@
 
 Chien-Chen(Calvin) Weng 
 
-Email: [airfield1006@gmail.com](mailto:airfield1006@gmail.com)  
+Taipei, Taiwan  
+TEL : +886-985-020156  
+Email : [airfield1006@gmail.com](mailto:airfield1006@gmail.com)  
 
 ---------------------------------------
 
-### Summary
+### Experienced Data Scientist
 
-*   My research field is about **Robotics Navigation**.
+*   My research field is **Robot Perception and Learning**.
 	- particularly, it is moving object tracking introducing neighboring (object) interaction model and scene interaction model. 
 *   Familiar with **Machine Learning**.
-	- have ever implemented SVM, RealAdaBoost, TreeCascade for detecting objects which are of the same category but with various appearance, such as cars and pedestrians.
+	- have ever implemented SVM, Real AdaBoost, TreeCascade for detecting objects, such as cars and pedestrians.
+*	 With experience in **Data Analysis**.
+	- have done data analysis for various business problems, which include sales prediction for chain drugstore, users' online booking behaviour analysis, NCAA basketball tournament prediction and so on.
 *   Have **Computer Vision** background knowledge.
 	- learned about vision-based perception issues, which include features, camera model and 3D object shape recovery, from working or taking online courses.
 
+### Skill Summary
+
+*   **Machine Learning Theory :** SVM, AdaBoost, Cascade, Boosting Machine, Random Forest, clustering and so on.
+*   **Machine Learning Tool :** LIBSVM, XGBoost.
+*   **Data Analysis Programming :**	Matlab/Octave(solid), Python.
+*   **System Programming :** C/C++(solid).
+*   **Data Base :** MySQL, SQLite.
+*   **Language :** Chinese(native), English.
+
 ---------------------------------------
 
-### Work Experience
+### Career Progression
 
 *   **Product Developer**, ACTi Corp.,
-    Aug. 2012 - current
-    - Design image algorithms for surveillance and business service. I am mainly incharge of pedestrian and car detection.
-    - Support developments of moving object tracking and license plate recognition.
-    - Complete corresponding applications such as tripwire, forbidden area, incorrect direction detection and crowd analysis.
-    - Port and maintain algorithm packages under ACTi IVS(Intelligent Video System) framework.
+    Aug. 2012 - 2015
+    - My job is to design computer vision algorithms for various surveillance and business service applications. I am mainly incharge of pedestrian and car detection. Besides, I also support algorithm review for moving object tracking, license plate recognition, heat map analysis and so on.
+    - As a senior developer, I am also responsible for providing the intial algorithm sketch based on the custom's requirement, hosting the team meeting and assigning corresponding tasks.
 
+### Representative Projects
+
+*  **Surveillance Applications**, ACTi Corp.
+	- Develope applications including tripwire, forbidden area, missing/unattended object detection, incorrect direction detection and crowd analysis. 
+
+*  **People Counting**, ACTi Corp.
+	- Detect and count the number of people entering and exiting the store for client *New World Design Center* [(http://www.new-world.com.tw)](http://www.new-world.com.tw).
+
+*	**Answer Sheet Recognition**, Private, Aug. 2015 - Oct. 2015  
+	- Recognize the marked options from cell phone camera image for client *Study123* [(https://www.study123.com.tw)](https://www.study123.com.tw).
+
+### Interests and Continued learning
+
+*   **Data Analysis**@[Kaggle](https://www.kaggle.com)
+*   **Robotics, Machine Learning**@[Coursera](https://www.coursera.org/)
+*   **Computer Vision**@[CRCV](http://crcv.ucf.edu/courses/)
+*   **Android Application**
+
+---------------------------------------
 
 ### Education
 
@@ -38,21 +68,13 @@ Email: [airfield1006@gmail.com](mailto:airfield1006@gmail.com)
 
 ---------------------------------------
 
-### Skills
-
-*   **System Programming :** C/C++(Solid)
-*   **Data Analysis :** Matlab/Octave(Solid), Python
-*   **Language :** English
-
 ### Publication
 
 *   **Chien-Chen Weng**, Chieh-Chih Wang, Jennifer Healey, A Segmentation and Data Association Annotation System for Laser-based Multi-Target Tracking Evaluation, in Proceedings of the IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2012), July 2012. [PDF](http://perception.csie.ntu.edu.tw/wiki/files/k765h6d2Y5/weng_aim2012pdf.html)
 *   Kuo-Huei Lin, **Chung-Han Weng[^1]** and Chieh-Chih Wang, LIDAR-based Multitarget Tracking using Neighboring Interaction Force Models, in Proceedings of the 24th IPPR Conference on Computer Vision, Graphics and Image Processing (CVGIP), August, 2011.
 
 
-### Interests and Continued learning
-
-*   Robotics, Machine Learning @[Coursera](https://www.coursera.org/), Computer Vision @[CRCV](http://crcv.ucf.edu/courses/), Android Application
+---------------------------------------
 
 Resume: [http://ccweng.github.io/resume](http://ccweng.github.io/resume) [[PDF]](https://raw.github.com/ccweng/resume/gh-pages/resume.pdf)
 
