@@ -76,7 +76,7 @@ Email : [airfield1006@gmail.com](mailto:airfield1006@gmail.com)
 
 ---------------------------------------
 
-Resume: [http://ccweng.github.io/resume](http://ccweng.github.io/resume) [[PDF]](https://raw.github.com/ccweng/resume/gh-pages/resume.pdf)
+Resume: [[HTTP]](http://ccweng.github.io/resume/resume.html) [[PDF]](https://raw.github.com/ccweng/resume/gh-pages/resume.pdf)
 
 [^1]:my former name
 
